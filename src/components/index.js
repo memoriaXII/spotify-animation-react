@@ -1,0 +1,5 @@
+export { default as Navbar } from './NavBar'
+export { default as Cover } from './Cover'
+export { default as Content } from './Content'
+export { default as ShufflePlay } from './ShufflePlay'
+export { default as Header } from './Header'
